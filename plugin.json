@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "git-guided-flow",
+  "version": "1.0.0",
+  "description": "Interactive, confirm-every-step Git workflow: review status, create a Conventional Branch, stage, write a Conventional Commit message, add the GitHub remote, and push.",
+  "author": {
+    "name": "HP"
+  },
+  "keywords": [
+    "guided git push",
+    "conventional branch",
+    "conventional commits",
+    "git commit message",
+    "create git branch",
+    "push to github",
+    "add git remote"
+  ],
+  "license": "MIT"
+}
